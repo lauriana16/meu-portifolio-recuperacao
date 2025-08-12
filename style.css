@@ -10,13 +10,13 @@ color: black;
 
 
 .cabeçalho{
-background-color: aqua;
+background-color: rgb(20, 23, 192);
 color: black;
 width: 20px;
 text-align: center;
 }
 .cabeçalho h1{
 font-size: 200%;
-color: black;
+color: rgb(102, 212, 161);
 margin: 5;
 }
